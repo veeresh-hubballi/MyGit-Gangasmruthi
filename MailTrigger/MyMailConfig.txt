@@ -1,0 +1,8 @@
+mail.smtp.starttls.enable=true
+mail.smtp.host=smtp.gmail.com
+mail.smtp.user=nidhi.ashwani.aggarwal@gmail.com
+mail.smtp.password=orange11!!
+mail.smtp.port=587
+mail.smtp.auth=true
+#toAddress=nidhi.ashwani.aggarwal@gmail.com
+customer.csv=customer.dat
